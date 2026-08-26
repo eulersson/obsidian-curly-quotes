@@ -1,0 +1,10 @@
+{
+	"id": "curly-quotes",
+	"name": "Curly Quotes",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Wrap the selected text in curly quotes, or unwrap it if it is already quoted",
+	"author": "Ramon Blanquer Ruiz",
+	"authorUrl": "https://ramn.dev",
+	"isDesktopOnly": false
+}
